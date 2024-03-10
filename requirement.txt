@@ -1,8 +1,0 @@
-matplotlib
-numpy
-pandas
-pip
-pillow
-seaborn
-streamlit
-babel
