@@ -39,6 +39,7 @@ def create_byholiday_df(df):
     
     return byholiday_df
     
+open("all_data.csv")
 all_df = pd.read_csv("all_data.csv")
 
 datetime_column = ["dteday"]
