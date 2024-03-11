@@ -72,7 +72,7 @@ byholiday_df = create_byholiday_df(main_df)
 st.header('Dicoding Bike Dashboard :sparkles:')
 
 
-st.subheader('Monthly Users')
+st.subheader('Monthly Orders')
  
 col1, col2 = st.columns(2)
 
